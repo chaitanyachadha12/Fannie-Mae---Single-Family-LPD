@@ -128,7 +128,7 @@ Interpretation for Interest Rates Distribution across Loan Statuses
 Performing Loans dominate the distribution, particularly around the 8% interest rate mark, which appears to be the most common interest rate for performing loans whereas Delinquent Loans (yellow) are present but in much smaller numbers across the interest rate spectrum. However, they are visible at various interest rates.
 
 
-### Compare default rates for loans originated in different quarters to assess if default risk has changed over time.
+### 6) Compare default rates for loans originated in different quarters to assess if default risk has changed over time.
 
 Formula used:
 
@@ -141,7 +141,7 @@ Default Rate = (Defaulted Loans / Total Loans) * 100
 The overall default rates are very low, indicating a stable loan portfolio with minimal risk of default during these years.
 
 
-### The percentage of the loan amount recovered after default, through foreclosure or other means.
+### 7) The percentage of the loan amount recovered after default, through foreclosure or other means.
 
 Formula used:
 
@@ -151,7 +151,7 @@ The percentage of the loan amount recovered after default, through foreclosure o
 means is 25%.
 
 
-### Plot average, median, and variance of property price changes over the entire duration, bucketed by month.
+### 8) Plot average, median, and variance of property price changes over the entire duration, bucketed by month.
 
 Interpretation of Results for Average Property Price
 
